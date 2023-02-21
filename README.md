@@ -1,3 +1,11 @@
+
+# Introduction
+
+Read about [Model View Template](https://www.geeksforgeeks.org/django-project-mvt-structure/),
+and also about [DLT](https://docs.djangoproject.com/en/4.1/ref/templates/language/).
+
+[Here](https://www.youtube.com/watch?v=ao8pCrRqKOs) a easy video overview.
+
 # Commands
 
 Start a new project
